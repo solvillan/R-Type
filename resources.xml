@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!--Sounds-->
+  <resource type="sound" id="pew">pew.ogg</resource>
+  <resource type="sound" id="hit">hit.ogg</resource>
+  <resource type="sound" id="gover">gameover.ogg</resource>
+  <resource type="sound" id="bgm">HotCore.ogg</resource>
+  <!--Images-->
+  <resource type="image" id="bg">res/bg.png</resource>
+  <resource type="image" id="alien">res/Alien.png</resource>
+  <resource type="image" id="logo">res/logo.png</resource>
+  <resource type="image" id="missile">res/Missil.png</resource>
+  <resource type="image" id="craft">res/Skepp.png</resource>
+  <resource type="image" id="hud">res/Statusbar.png</resource>
+</resources>
